@@ -1,0 +1,116 @@
+body{
+}
+.all_fonts{
+ color: white;
+ text-decoration: solid;
+}
+.inputs{
+    width: 9px;
+
+}
+.div{
+    background-color: #7ED6DF;
+}
+.login_form{
+    background-color: white;
+    border-radius: 10px;
+    background-image: ;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.75),rgba(0, 0, 0, 0.75));
+    background-size: cover;
+    background-position: center;
+}
+.cards{
+    margin-top: 100px;
+
+}
+.button{
+   
+    margin-left: 80%;
+
+}
+.headings{
+     text-align: center;
+     text-decoration: blink;
+     font: bold;
+     font-size: xx-large;
+     margin-bottom: 40px;
+      font-family: "Sofia", sans-serif;
+      margin-left: 40%;
+
+}
+.next{
+     margin-top: 20px;
+        text-align: left;
+        margin-left: 80%;
+}
+.buttons{
+    margin-top: 20px;
+        text-align: left;
+        margin-left: 90%;
+}
+.taskbar_text a{
+    color: black !important;
+    text-decoration: none !important;
+}
+.footer_text a{
+    color: lightblue; !important;
+    text-decoration: none !important;
+}
+.log_div{
+    height: 300px;
+}
+.img{
+    margin-left: 33%;
+    margin-bottom: -110px;
+    margin-top: -60px;
+}
+.search{
+
+}
+.welcome{
+  font-family: Droid Sans, Lobster, Droid Serif.;
+     color: black;
+     font-size: xx-large;
+     color: green;
+    }
+    .paragraph{
+         font-family: Droid Sans, Lobster, Droid Serif.;
+         color: black;
+         font-size: xx-large;
+         color: green;
+    }
+    .heading{
+        text-align: center;
+        font-weight: bold;
+    }
+.card_spacing{
+    margin-left: 3px;
+    margin-top: 10px;
+}
+.text-color{
+    color: green;
+}
+.slider_text{
+    font-family: 'CARTOON FREE', sans-serif;
+    font-size: xx-large;
+    color: ;
+}
+.slider{
+    margin-top: 90px;
+    height: 400px;
+}
+.slider_images{
+    height: auto;
+
+}
+.textt{
+    margin-bottom: -40px;
+}
+.form_background{
+    margin-top: 50px;
+  /*  background-image: url("../images/green_background.png");*/
+}
